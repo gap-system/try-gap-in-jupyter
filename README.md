@@ -12,8 +12,9 @@ To start a new GAP session, perform the following steps:
 <https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master> in the browser.
 
 2. A message `Loading repository: gap-system/try-gap-in-jupyter/master` will be 
-displayed, followed by a non-interactive preview. When the environment will be
-ready, you will see the main Jupyter screen with a file browser.
+displayed, followed by a non-interactive preview. Please be patiens, since it
+may take a while, dependently on the current load on Binder. When the server
+will be ready, you will see the main Jupyter screen with a file browser.
 
 3. Click on the `NewNotebook.ipynb` file to start GAP Jupyter notebook.
 
