@@ -19,7 +19,8 @@ will be ready, you will see the main Jupyter screen with a file browser.
 3. Click on the `NewNotebook.ipynb` file to start GAP Jupyter notebook.
 
 Please note that the notebook will not be preserved after the window will
-be closed, but you will be able to download the notebook in various formats. 
+be closed, but you will be able to download the notebook in various formats
+by going to "File" -> "Download as" in the Jupyter menu.
 
 For further information about Jupyter, see 
 <https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html>.
