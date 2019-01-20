@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-stable-4.10)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-master)
 
 # Trying GAP in a Jupyter notebook
 
