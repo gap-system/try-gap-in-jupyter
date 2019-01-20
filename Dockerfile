@@ -1,4 +1,4 @@
-FROM gapsystem/gap-docker
+FROM gapsystem/gap-docker-master
 
 MAINTAINER Alexander Konovalov <alexander.konovalov@st-andrews.ac.uk>
 
