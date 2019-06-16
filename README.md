@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master)
 
+Last rebuild: 16 June 2019
+
 # Trying GAP in a Jupyter notebook
 
 This repository allows to try GAP in a Jupyter notebook. It does not require to
