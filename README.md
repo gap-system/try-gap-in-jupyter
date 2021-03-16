@@ -18,7 +18,7 @@ displayed, followed by a non-interactive preview. Please be patient, since it
 may take a while, depending on the current load on Binder. When the server
 will be ready, you will see the main Jupyter screen with a file browser.
 
-3. Click on the `NewNotebook.ipynb` file to start GAP Jupyter notebook.
+3. Click on the `demo.ipynb` file to start GAP Jupyter notebook with some examples.
 
 Please note that the notebook will not be preserved after the window will
 be closed, but you will be able to download the notebook in various formats
