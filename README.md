@@ -1,4 +1,4 @@
-- Latest official GAP release (GAP 4.11.0) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master)
+- Latest official GAP release (GAP 4.11.1) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master)
 - GAP stable-4.11 branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-stable-4.11)
 - GAP master branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-master)
 
