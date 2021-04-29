@@ -1,6 +1,6 @@
-- Latest official GAP release (GAP 4.11.1) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master)
-- GAP stable-4.11 branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-stable-4.11)
-- GAP master branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-master)
+- Latest official GAP release (GAP 4.11.1) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master?filepath=demo.ipynb)
+- GAP stable-4.11 branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-stable-4.11?filepath=demo.ipynb)
+- GAP master branch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/gap-master?filepath=demo.ipynb)
 
 # Trying GAP in a Jupyter notebook
 
@@ -16,9 +16,7 @@ To start a new GAP session, perform the following steps:
 2. A message `Loading repository: gap-system/try-gap-in-jupyter/master` will be 
 displayed, followed by a non-interactive preview. Please be patient, since it
 may take a while, depending on the current load on Binder. When the server
-will be ready, you will see the main Jupyter screen with a file browser.
-
-3. Click on the `demo.ipynb` file to start GAP Jupyter notebook with some examples.
+will be ready, you will see the GAP Jupyter notebook with some examples.
 
 Please note that the notebook will not be preserved after the window will
 be closed, but you will be able to download the notebook in various formats
